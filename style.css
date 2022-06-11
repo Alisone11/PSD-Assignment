@@ -217,9 +217,9 @@ table {
 	align-items: center;
 }
 .footer h2{
-	width:170px;
+	width:175px;
 	height: 36px;
-	background:url(https://raw.githubusercontent.com/hexschool/HTMLHWSource/master/singlePage/footerLogo.png);
+	background:url(https://raw.githubusercontent.com/hexschool/HTMLHWSource/master/singlePage/footerLogo.png) no-repeat;
 	text-indent: 101%;
 	overflow: hidden;
 	white-space: no-wrap;
